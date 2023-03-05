@@ -219,7 +219,7 @@ root@vagrant:~# echo $?
 ```
 20. Погасите тестовый хост, ```vagrant destroy```.
 ```
-done!
+Сделано 
 ```
 
  
